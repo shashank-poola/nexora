@@ -1,9 +1,11 @@
-<div align="center">
-  <br />
-    <a href="https://youtu.be/zA9r5zTllx4" target="_blank">
-      <img src="https://github.com/user-attachments/assets/ab600f24-f4d9-4cef-8f1e-3fd9194afb30" alt="Project Banner">
-    </a>
-  <br />
+
+  <h3 align="center">An Awwwards Winning Website</h3>
+
+   <div align="center">
+Zentry is a modern, responsive landing page designed to help businesses, startups, and creators showcase their products or services online with a clean and professional look. It focuses on simplicity, fast performance, and mobile-friendly design, making it easy for visitors to engage and take action.
+    </div>
+</div>
+
 
   <div>
     <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
@@ -11,26 +13,29 @@
     <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
   </div>
 
-  <h3 align="center">An Awwwards Winning Website</h3>
+# Zentry 🚀
 
-   <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
-    </div>
-</div>
+**Zentry** is a sleek and modern landing page crafted to help businesses, startups, and creators make a bold and professional first impression. The site is designed to be responsive, fast, and visually appealing to engage visitors right away.
 
-## 📋 <a name="table">Table of Contents</a>
+🌐 **Live Demo:** [https://zentry.com](https://zentry.com)
 
-1. 🤖 [Introduction](#introduction)
-2. ⚙️ [Tech Stack](#tech-stack)
-3. 🔋 [Features](#features)
-4. 🤸 [Quick Start](#quick-start)
-5. 🕸️ [Snippets (Code to Copy)](#snippets)
-6. 🔗 [Assets](#links)
-7. 🚀 [More](#more)
+## ✨ Features
 
-## ⚠️ Disclaimer
+- ✅ Clean, modern, and responsive design
+- ⚡ Fast loading and optimized performance
+- 📱 Mobile-friendly and cross-browser compatible
+- 🎨 Easy to customize layout and styles
+- 💼 Perfect for product, app, or service promotion
+- 🚀 SEO-friendly structure
 
-All design credits go to **[Zentry](https://zentry.com/)**. This project is created purely for **educational purposes** and is not intended for commercial use or public deployment.
+## 🛠️ Tech Stack
+
+- React JS, JavaScript 
+- Tailwind CSS
+- GSAP Animation
+- CSS3
+
+
 
 
 ## 🚨 Tutorial
@@ -45,7 +50,6 @@ If you prefer visual learning, this is the perfect resource for you. Follow our 
 
 Build a visually captivating website inspired by **[Zentry](https://zentry.com/)**, featuring scroll-triggered animations, geometric transitions, and engaging video storytelling. Learn how to deliver a luxurious, modern feel, focusing on engaging UI/UX and smooth responsiveness, capturing the essence of what makes an Awwwards winner.
 
-If you're getting started and need assistance or face any bugs, join our active Discord community with over **47k+** members. It's a place where people help each other out.
 
 <a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
 
