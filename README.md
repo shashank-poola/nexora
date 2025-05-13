@@ -1,8 +1,8 @@
 
-  <h3 align="center">An Awwwards Winning Website</h3>
+  <h3 align="center">NEXORA</h3>
 
    <div align="center">
-Zentry is a modern, responsive landing page designed to help businesses, startups, and creators showcase their products or services online with a clean and professional look. It focuses on simplicity, fast performance, and mobile-friendly design, making it easy for visitors to engage and take action.
+Nexora is a modern, responsive landing page designed to help businesses, startups, and creators showcase their products or services online with a clean and professional look. It focuses on simplicity, fast performance, and mobile-friendly design, making it easy for visitors to engage and take action.
     </div>
 </div>
 <br/>
@@ -15,7 +15,7 @@ Zentry is a modern, responsive landing page designed to help businesses, startup
   </div>
 
 
-🌐 **Live Demo:** [https://zentry.shasha.ink](https://zentry.shasha.ink)
+🌐 **Live Demo:** [https://zentry.shasha.ink](https://nexora.shasha.ink)
 
 
 
@@ -69,8 +69,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/shashank-poola/zentry.git
-cd zentry
+git clone https://github.com/shashank-poola/nexora.git
+cd nexora
 ```
 
 **Installation**
@@ -79,6 +79,7 @@ Install the project dependencies using npm:
 
 ```bash
 npm install
+npm run dev
 ```
 
 **Running the Project**
