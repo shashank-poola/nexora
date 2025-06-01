@@ -52,7 +52,7 @@ Build a visually captivating website inspired by **[Zentry](https://zentry.com/)
 
 - GSAP
 - React.js
-- Tailwind CSS
+- Tailwind css
 
 ## <a name="quick-start">🤸 Quick Start</a>
 
